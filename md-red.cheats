@@ -1,0 +1,13 @@
+# P1 HP  (16bit write)
+8200419e ffff
+# P2 HP  (16bit write)
+820043a6 ffff
+# Belly  (8bit write)
+320042cc 00ff
+# Unlock Friend Areas - US version (slide code)
+42038c29 0101 
+0000001d 0002
+# Lock Friend Areas - US version (slide code)
+42038c29 0000 
+0000001d 0002
+
