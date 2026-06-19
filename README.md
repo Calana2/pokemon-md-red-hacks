@@ -18,4 +18,4 @@ Some hacks for Pokemon Mystery Dungeon: Red Rescue Team (US)
 
 ### Notes
 - The scripts depend on the mgba API. [Download mgba here](https://mgba.io/downloads.html).
-- Slide Codebreaker codes will not work in mgba, but it will do in visualboy. [Download visualboy here](https://visualboyadvance.org/download/)
+- Slide Codebreaker codes will not work in mgba, but it will do in visualboy. [Download visualboy here](https://visualboyadvance.org/download/).
