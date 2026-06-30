@@ -1,5 +1,5 @@
 --[[
-     This script unlocks all the "friend areas"
+     This script unlocks all the "friend areas".
   ]]--
 
 local function read_byte(addr) return emu:read8(addr) end

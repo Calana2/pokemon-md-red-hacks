@@ -1,6 +1,6 @@
 --[[
      This script makes you and your partner inmortal.
-     Run this script when you are inside a battle zone.
+     Run this script when you are inside a dungeon.
   ]]--
 
 local function read_byte(addr) return emu:read8(addr) end
